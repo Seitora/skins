@@ -17,7 +17,7 @@ Here are my osu!mania skins! Click the links below to download the skins and che
 ---
 
 ## PINK  TERRA
-note: the green notes are LNs.
+Note: The green notes are LNs. The normal notes are still pink.
 [Download Here](https://mega.nz/file/8T9HEYaI#o07SBqjl1I6_L8xodqoyQGH_ZQlzRHyZTmwQzY4i6CY)  
 ![Skin Name 3 Screenshot](https://github.com/Seitora/skins/blob/main/screenshot933.jpg?raw=true)
 
