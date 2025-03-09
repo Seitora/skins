@@ -4,6 +4,12 @@ Here are my osu!mania skins! Click the links below to download the skins and che
 
 ---
 
+## Seitora's Orbs v4
+Note: There are also new recolors
+[Download Here](https://mega.nz/file/gKkQxKaC#DNgP-KTbjLCCBiZ9SskJHYNydswOj5im6CKk69ZF0OM)  
+![Skin Name 1 Screenshot](https://github.com/Seitora/skins/blob/main/screenshot1053.jpg?raw=true)
+
+
 ## Seitora's Arrows Edit
 [Download Here](https://mega.nz/file/5P1wVLJD#Q6z1P2vQ-It7KmRdrqwJ9l_6426IjxzwD8odU83b_gY)  
 ![Skin Name 1 Screenshot](https://github.com/Seitora/skins/blob/main/screenshot1011.jpg?raw=true)
