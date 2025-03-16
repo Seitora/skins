@@ -5,7 +5,7 @@ Here are my osu!mania skins! Click the links below to download the skins and che
 ---
 
 ## Seitora's Orbs v4
-Note: There are also recolors in the mania\arrows folder
+Note: There are also recolors in the mania\arrows folder (nvm i forgot to put)
 [Download Here](https://mega.nz/file/gKkQxKaC#DNgP-KTbjLCCBiZ9SskJHYNydswOj5im6CKk69ZF0OM)  
 
 ![Skin Name 1 Screenshot](https://github.com/Seitora/skins/blob/main/screenshot1058.jpg?raw=true)
