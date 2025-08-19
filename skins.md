@@ -5,7 +5,7 @@ Here are my osu!mania skins! Click the links below to download the skins and che
 ---
 
 ## imyeeyee x seitora
-[Download Here](https://mega.nz/file/5TdEESzB#SCvx4F1Ki--OSlWQtSKy8NcmQupF_5fbcFSsKkyrfAU)
+[Download Here](https://mega.nz/file/MalE3QKJ#fdYe7UI1Y0dvG9qSXgHleCATVCP-vFIBMMY-Zim8Np8)
 
 ![Skin Name 1 Screenshot](https://github.com/Seitora/skins/blob/main/screenshot1207.jpg?raw=true)
 
